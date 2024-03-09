@@ -1,3 +1,5 @@
 ### hola soy depwp
 
-![plink-wide-cat](https://github.com/Depwp/Depwp/assets/162775475/f11b7bb7-d5df-46c3-8e81-e80427477319)
+<p align="center">
+  <img src="![plink-wide-cat](https://github.com/Depwp/Depwp/assets/162775475/e8ab94d8-9cba-49af-a907-7eff71d56448)" alt="animated" />
+</p>
